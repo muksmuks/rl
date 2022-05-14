@@ -33,7 +33,7 @@ Reinforcement Learning is just a computational approach of learning from action.
 
 <br>
 ### The keywords of RL
-<br>
+
 **Agent** is what many call an AI but it basically a personification of an algorithm which acts in an environment. 
 A person, a dog, or a toddler could be an agent.
 
@@ -49,7 +49,7 @@ So basically what RL researchers do is trying to create such an agent (in terms 
 
 <br>
 ### The official definition
-<br>
+
 > Reinforcement Learning is about complex sequential decision-making under uncertainty.
 
 
