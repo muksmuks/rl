@@ -31,7 +31,7 @@ The toddler does not know how to walk but he learns by trial and error. An envir
 
 Reinforcement Learning is just a computational approach of learning from action. RL is a type of Machine Learning where an agent learns how to behave in an environment by performing actions and seeing the results.
 
-
+<br>
 ### The keywords of RL
 
 **Agent** is what many call an AI but it basically a personification of an algorithm which acts in an environment. 
@@ -47,6 +47,7 @@ A person, a dog, or a toddler could be an agent.
 
 So basically what RL researchers do is trying to create such an agent (in terms of RL our toddler is an agent) which will be operating in an environment (such as the world for the toddler) and could understand what is the best move in a given situation. Back to toddler example, how he should put his body in order to hold the balance and make a step.
 
+<br>
 ### The official definition
 
 > Reinforcement Learning is about complex sequential decision-making under uncertainty.
