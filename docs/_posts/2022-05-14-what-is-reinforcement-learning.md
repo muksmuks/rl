@@ -19,6 +19,9 @@ Another example would be a toddler learning to walk.
 ![][{{site.url}}/static/img/toddler_1.jpg]
 ![][{{site.url}}/img/toddler_1.jpg]
 
+<img src="/static/img/toddler_1.jpg" alt="">
+<img src="/img/toddler_1.jpg" alt="">
+
 (Image Courtesy - https://www.youtube.com/watch?v=CKgxMu1oMOg) 
 
 
