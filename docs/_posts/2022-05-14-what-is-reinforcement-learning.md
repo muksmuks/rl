@@ -49,8 +49,9 @@ So basically what RL researchers do is trying to create such an agent (in terms 
 
 ### The official definition
 
-
-<mark> Reinforcement Learning is about complex sequential decision-making under uncertainty. </mark>
+`
+Reinforcement Learning is about complex sequential decision-making under uncertainty.
+`
 
 
 RL is a powerful and versatile branch of machine learning. It allows agents to learn, not through examples or even data, but by interacting with an environment, to optimize decision making. 
