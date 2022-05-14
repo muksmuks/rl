@@ -1,0 +1,43 @@
+title: Deep Learning
+description: Data Science | AI | Insurance
+author: Mukesh K
+github: https://github.com/muksmuks
+about: Data Scientist | Insurance Fraud
+disqus_shortname: muksmuks
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+  posts:
+    output: true
+    permalink: /posts/:title.html
+
+social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/kr-mukesh/"
+    - icon: fa-github
+      link: "https://github.com/muksmuks"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+      
+url: "https://muksmuks.github.io/python"
+baseurl: "https://muksmuks.github.io/python"
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

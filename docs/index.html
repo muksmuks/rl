@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div id="home">
+  <h1>{{ site.title }}</h1>
+  <br/>
+  
+  <div>
+    <ol class="posts">
+      {% for post in site.posts reversed %}
+            <li><a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+      {% endfor %}  
+    </ol>
+  </div>
+
+</div><!-- end #home -->
