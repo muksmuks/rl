@@ -29,11 +29,11 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+#    - text: My Projects
+#      url: /projects/
       
-url: "https://muksmuks.github.io/python"
-baseurl: "https://muksmuks.github.io/python"
+url: "https://muksmuks.github.io/rl"
+baseurl: "https://muksmuks.github.io/rl"
 
 compress_html:
   clippings: all
