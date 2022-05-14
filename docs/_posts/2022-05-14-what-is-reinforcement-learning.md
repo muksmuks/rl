@@ -48,7 +48,9 @@ A person, a dog, or a toddler could be an agent.
 So basically what RL researchers do is trying to create such an agent (in terms of RL our toddler is an agent) which will be operating in an environment (such as the world for the toddler) and could understand what is the best move in a given situation. Back to toddler example, how he should put his body in order to hold the balance and make a step.
 
 ### The official definition
-Reinforcement Learning is about complex sequential decision-making under uncertainty.
+
+
+<mark> Reinforcement Learning is about complex sequential decision-making under uncertainty. </mark>
 
 
 RL is a powerful and versatile branch of machine learning. It allows agents to learn, not through examples or even data, but by interacting with an environment, to optimize decision making. 
