@@ -23,22 +23,22 @@ The toddler doesn’t know how to walk but he learns by trial and error. An envi
 Reinforcement Learning is just a computational approach of learning from action. RL is a type of Machine Learning where an agent learns how to behave in an environment by performing actions and seeing the results.
 
 
-## The keywords of RL
+### The keywords of RL
 
-Agent is what many call an AI but it basically a personification of an algorithm which acts in an environment. 
+**Agent** is what many call an AI but it basically a personification of an algorithm which acts in an environment. 
 A person, a dog, or a toddler could be an agent.
 
-Environment is what surrounds the agent and what the agent takes a reward from. For example, the world around us or a game you play.
+**Environment** is what surrounds the agent and what the agent takes a reward from. For example, the world around us or a game you play.
 
-Policy is logic, morality and the brain of the agent. It gives the agent an insight on what he should do in order to succeed. Speaking more technically, it tries to predict the outcome of agent’s actions in some given situation.
+**Policy** is logic, morality and the brain of the agent. It gives the agent an insight on what he should do in order to succeed. Speaking more technically, it tries to predict the outcome of agent’s actions in some given situation.
 
-Reward is what the agent gets when it does something. It could be positive or negative depending on how well the agent acts. A cookie for a dog for making a roll is an example of a positive reward and a violent shout of your coach is an example of a negative reward.
+**Reward** is what the agent gets when it does something. It could be positive or negative depending on how well the agent acts. A cookie for a dog for making a roll is an example of a positive reward and a violent shout of your coach is an example of a negative reward.
 
-State is a situation the agent got into. It’s some representation of the information you possess, like how much money you have, how far from work you live, how lazy you are. The agent decides what to do depending on a state.
+**State** is a situation the agent got into. It’s some representation of the information you possess, like how much money you have, how far from work you live, how lazy you are. The agent decides what to do depending on a state.
 
 So basically what RL researchers do is trying to create such an agent (in terms of RL our toddler is an agent) which will be operating in an environment (such as the world for the toddler) and could understand what is the best move in a given situation. Back to toddler example, how he should put his body in order to hold the balance and make a step.
 
-## The official definition
+### The official definition
 Reinforcement Learning is about complex sequential decision-making under uncertainty.
 
 
