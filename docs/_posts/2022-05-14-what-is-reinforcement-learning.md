@@ -52,8 +52,22 @@ So basically what RL researchers do is trying to create such an agent (in terms 
 
 > Reinforcement Learning is about complex sequential decision-making under uncertainty.
 
+Let's unpack it a bit, shall we? 
+**Sequential** - The agent decides upon an action based on the state it is presented by the environment. As a result of that, environment 
+presents another state and decision-making opportunity for the agent.
+
+**Decision Making** - The action to take given the state so as to maximize cumulative rewards
+
+**Under Uncertainity** - The agent does not know how the environment will react after an action it takes. Very much like real life. How would 
+a domain change (For eg from data science to selling organic products) plan out. Will it be more rewarding or would one regret it?
+
+
+
+<br>
+### Conclusion
 
 RL is a powerful and versatile branch of machine learning. It allows agents to learn, not through examples or even data, but by interacting with an environment, to optimize decision making. 
 
 In a nutshell, RL is the study of agents and how they learn by trial and error. It formalizes the idea that rewarding or punishing an agent for its behavior makes it more likely to repeat or forego that behavior in the future.
 
+The key advantage of reinforcement learning is its ability to develop behavior by taking actions and getting feedback, similar to the way humans and animals learn by interacting with their environment. Some scientists describe reinforcement learning as "the first computational theory of intelligence."
