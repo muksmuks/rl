@@ -14,7 +14,7 @@ Learning from interaction with the environment comes from our natural experience
 
 Another example would be a toddler learning to walk.
 
-![]({{ site.baseurl }}/static/img/toddler_1.jpg) ![]({{ site.baseurl }}/static/img/toddler_2.jpg)
+![]({{ site.baseurl }}/static/img/toddler_1.jpg =100x20) ![]({{ site.baseurl }}/static/img/toddler_2.jpg)
 
 (Image Courtesy - https://www.youtube.com/watch?v=CKgxMu1oMOg) 
 
