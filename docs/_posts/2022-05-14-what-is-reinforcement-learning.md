@@ -61,7 +61,7 @@ presents reward, another state and decision-making opportunity for the agent. Th
 **Decision Making** - The action to take given the state so as to maximize cumulative rewards
 
 **Under Uncertainity** - The agent does not know how the environment will react after an action it takes. Very much like real life. How would 
-a domain change (For eg from data science to selling organic products) plan out. Will it be more rewarding or would one regret it?
+a domain change (For eg from data science to selling organic products) pan out. Will it be more rewarding or would one regret it?
 
 
 
