@@ -53,6 +53,7 @@ So basically what RL researchers do is trying to create such an agent (in terms 
 > Reinforcement Learning is about complex sequential decision-making under uncertainty.
 
 Let's unpack it a bit, shall we? 
+
 **Sequential** - The agent decides upon an action based on the state it is presented by the environment. As a result of that, environment 
 presents another state and decision-making opportunity for the agent.
 
