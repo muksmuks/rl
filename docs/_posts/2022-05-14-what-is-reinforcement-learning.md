@@ -5,7 +5,7 @@ date:   2022-05-14 23:46:00 +0530
 categories: [reinforcement learning,machine learning]
 ---
 
-> Science makes mathematical model of reality - Leslie Lamport (Turing Award Winner)
+> **Science makes mathematical model of reality** - _Leslie Lamport (Turing Award Winner)_
 
 
 Human brain is probably one of the most complex systems in the world and thus it’s an in-exhaustive source of inspiration for any AI researcher. For decades reinforcement learning has been borrowing ideas not only from nature but also from our own psychology making a bridge between technology and humans.
