@@ -5,8 +5,6 @@ date:   2022-05-14 23:46:00 +0530
 categories: [reinforcement learning,machine learning]
 ---
 
-> **Science makes mathematical model of reality** - _Leslie Lamport (Turing Award Winner)_
-
 
 Human brain is probably one of the most complex systems in the world and thus it’s an in-exhaustive source of inspiration for any AI researcher. For decades reinforcement learning has been borrowing ideas not only from nature but also from our own psychology making a bridge between technology and humans.
 
@@ -26,6 +24,8 @@ Another example would be a toddler learning to walk.
 A toddler is sitting on the floor (it’s her current state),  takes an action - tries to stand up, and gets a reward after this. That is reinforcement learning in short.
 
 The toddler does not know how to walk but she learns by trial and error. An environment gives feedback such as pain, when she falls down, or a hug from a loving mother, when she takes a step. Does this sound familiar? Yeah, it’s what many people know as positive and negative reinforcement or in more general way operant conditioning. We also apply it when we teach a dog to bark or to roll, for example.
+
+> **Science makes mathematical model of reality** - _Leslie Lamport_
 
 Reinforcement Learning is just a computational approach of learning from action. RL is a type of Machine Learning where an agent learns how to behave in an environment by performing actions and seeing the results.
 
