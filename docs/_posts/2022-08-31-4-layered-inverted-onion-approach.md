@@ -8,7 +8,7 @@ categories: [deeplearning, productivity]
 
 <b>Mastering any machine learning topic requires effort. A systematic approach is required to understand and master it. I follow this 4-layered inverted onion approach and have found it to be useful.
 
-<img src="{{ site.baseurl }}/static/img/inverted_onion.png" style="height:400px;width:600px;"/>
+<img src="{{ site.baseurl }}/static/img/inverted_onion.png" style="height:400px;width:900px;"/>
 
 ### Layer 1 - Get intuition about the topic. 
 
