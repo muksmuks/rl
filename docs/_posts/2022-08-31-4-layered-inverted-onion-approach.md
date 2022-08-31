@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learn any ML topic : 4-layered inverted onion approach"
-date:   2021-08-31 14:49:00 +0530
+date:   2022-08-31 14:49:00 +0530
 categories: [deeplearning, productivity]
 ---
 
