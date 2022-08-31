@@ -16,7 +16,7 @@ Mastering any machine learning topic requires effort. A systematic approach is r
 Intuition helps link the concept to something we already know and hence increases the chance of recalling the topic. Study materials which give intuition have explanations using animations, explain concepts using real life as an example.  
 
 The contents I usually follow are written by
-
+<br>
 **Mathematics** : [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 <br>
 **Statistics/DS**:  [Cassie Kozyrkov](https://www.youtube.com/c/Kozyrkov)
