@@ -16,11 +16,11 @@ Intuition helps link the concept to something we already know and hence increase
 The contents I usually follow are written by
 
 **Mathematics** : [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
-</br>
+<br>
 **Statistics/DS**:  [Cassie Kozyrkov](https://www.youtube.com/c/Kozyrkov)
-</br>
+<br>
 **NLP**: [Jay Alammar](https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ)
-</br>
+<br>
 **DL/ML** : [Luis Serrano](https://www.youtube.com/c/LuisSerrano)
 
 
@@ -39,11 +39,11 @@ This is time when we pick a book which is considered as the bible on the topic. 
 The field of machine learning faces the issue of having many terms being used for the same concept due to it being influenced by various disciplines like mathematics, neurology , psychology and industrial concepts.
 
 The topic treatment in these books are dense and sometimes involved. Read the concepts without too much focus on the mathematical formulations. The code understanding gained early will equip us to understand the mathematics better
-</br>
+<br>
 **Mathematics** : ISL - Gareth James et al
-</br>
+<br>
 **DL** : Deep Learning - Ian Goodfellow et al
-</br>
+<br>
 **RL** : Reinforcement learning - Sutton and Barto
 
 ### Layer 4 - Mathematical foundation
