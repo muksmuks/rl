@@ -25,6 +25,8 @@ A toddler is sitting on the floor (it’s her current state),  takes an action -
 
 The toddler does not know how to walk but she learns by trial and error. An environment gives feedback such as pain, when she falls down, or a hug from a loving mother, when she takes a step. Does this sound familiar? Yeah, it’s what many people know as positive and negative reinforcement or in more general way operant conditioning. We also apply it when we teach a dog to bark or to roll, for example.
 
+> **Science makes mathematical model of reality** - _Leslie Lamport_
+
 Reinforcement Learning is just a computational approach of learning from action. RL is a type of Machine Learning where an agent learns how to behave in an environment by performing actions and seeing the results.
 
 <br>
